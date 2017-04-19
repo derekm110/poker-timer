@@ -1,0 +1,20 @@
+c:\users\dmyska\documents\visual studio 2015\Projects\PokerTimer\PokerTimer\bin\Debug\PokerTimer.exe.config
+c:\users\dmyska\documents\visual studio 2015\Projects\PokerTimer\PokerTimer\bin\Debug\PokerTimer.exe
+c:\users\dmyska\documents\visual studio 2015\Projects\PokerTimer\PokerTimer\bin\Debug\PokerTimer.pdb
+c:\users\dmyska\documents\visual studio 2015\Projects\PokerTimer\PokerTimer\obj\Debug\PokerTimer.csprojResolveAssemblyReference.cache
+c:\users\dmyska\documents\visual studio 2015\Projects\PokerTimer\PokerTimer\obj\Debug\PokerTimer.Properties.Resources.resources
+c:\users\dmyska\documents\visual studio 2015\Projects\PokerTimer\PokerTimer\obj\Debug\PokerTimer.csproj.GenerateResource.Cache
+c:\users\dmyska\documents\visual studio 2015\Projects\PokerTimer\PokerTimer\obj\Debug\PokerTimer.exe
+c:\users\dmyska\documents\visual studio 2015\Projects\PokerTimer\PokerTimer\obj\Debug\PokerTimer.pdb
+c:\users\dmyska\documents\visual studio 2015\Projects\PokerTimer\PokerTimer\obj\Debug\PokerTimer.frmSetup.resources
+c:\users\dmyska\documents\visual studio 2015\Projects\PokerTimer\PokerTimer\obj\Debug\PokerTimer.frmTimer.resources
+D:\repos\pokertimer\DereksPokerTimer2\PokerTimer\PokerTimer\bin\Debug\PokerTimer.exe.config
+D:\repos\pokertimer\DereksPokerTimer2\PokerTimer\PokerTimer\obj\Debug\PokerTimer.exe
+D:\repos\pokertimer\DereksPokerTimer2\PokerTimer\PokerTimer\obj\Debug\PokerTimer.pdb
+D:\repos\pokertimer\DereksPokerTimer2\PokerTimer\PokerTimer\bin\Debug\PokerTimer.exe
+D:\repos\pokertimer\DereksPokerTimer2\PokerTimer\PokerTimer\bin\Debug\PokerTimer.pdb
+D:\repos\pokertimer\DereksPokerTimer2\PokerTimer\PokerTimer\obj\Debug\PokerTimer.csprojResolveAssemblyReference.cache
+D:\repos\pokertimer\DereksPokerTimer2\PokerTimer\PokerTimer\obj\Debug\PokerTimer.frmSetup.resources
+D:\repos\pokertimer\DereksPokerTimer2\PokerTimer\PokerTimer\obj\Debug\PokerTimer.Properties.Resources.resources
+D:\repos\pokertimer\DereksPokerTimer2\PokerTimer\PokerTimer\obj\Debug\PokerTimer.frmTimer.resources
+D:\repos\pokertimer\DereksPokerTimer2\PokerTimer\PokerTimer\obj\Debug\PokerTimer.csproj.GenerateResource.Cache
